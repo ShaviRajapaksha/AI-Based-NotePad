@@ -1,1 +1,1 @@
-# AI-Based-NotePad
+# AI-Based-NotePad using springboot, React 
